@@ -21,7 +21,7 @@
 }</p>
 </div>
 
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikey1-nuel&show_icons=true&theme=radical)
+![Emmanuel's GitHub stats](https://github-readme-stats-mikey1-nuel.vercel.app/api?username=Mikey1-nuel&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikey1-nuel&langs_count=8&theme=radical)](https://github.com/Mikey1-nuel/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mikey1-nuel.vercel.app/api/top-langs/?username=Mikey1-nuel&langs_count=8&theme=radical)](https://github.com/Mikey1-nuel/github-readme-stats)
 
